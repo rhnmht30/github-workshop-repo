@@ -1,0 +1,1 @@
+This file is created to demonstrate students on how to use git and github
